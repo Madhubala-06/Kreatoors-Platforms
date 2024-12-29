@@ -13,13 +13,15 @@ export default function Home() {
     <>
       <Hero />
       <ROISection />
-      <MissionSection />
+     
      
       <EmployeeStories/>
       <Benefits />
-      <TeamSection />
-      <CTASection/>
+     
+      <MissionSection />
+     
       <Signup/>
+      <CTASection/>
     
     </>
   )
